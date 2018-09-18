@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-[Click to View My Curriculum Vitae [PDF]](http://chzuo.github.io/files/resume_ChaoyuanZuo.pdf)
+[Click to View My Curriculum Vitae [PDF]](http://chzuo.github.io/files/Resume_ChaoyuanZuo.pdf)
 
