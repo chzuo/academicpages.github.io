@@ -10,7 +10,7 @@ redirect_from:
 
 * Welcome! I am a PhD candidate in the [Department of Computer Science](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Ritwik Banerjee](http://www3.cs.stonybrook.edu/~rbanerjee/index.html).  
 * My current research interest considers the the general area of natural language processing, partically information extraction and language use & society.
-* I received my Bachelor's Degree in [Beijing Institute of Technology](http://english.bit.edu.cn/)
+* I received my Bachelor's Degree in [Beijing Institute of Technology](http://english.bit.edu.cn/).
 
 Recent News
 ====== 
