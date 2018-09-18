@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Chaoyuan Zuo"
-  avatar           : "profile.png"
+  #avatar           : "profile.png"
   bio              : "PhD Candidate, Department of Computer Science, Stony Brook University"
   location         : "Stony Brook, New York"
   employer         :
